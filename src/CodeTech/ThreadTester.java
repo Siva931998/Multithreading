@@ -31,6 +31,8 @@ public class ThreadTester {
 //        }
 //        System.out.println("main thread Ending");
 
+
+        /**Deadlock concept**/
         String lock1 = "hello";
         String lock2 = "Hi";
 
